@@ -22,7 +22,15 @@
   }
 
   .m-1-2 {
-    width: 50%l
+    width: 50%;
+  }
+
+}
+
+@media only screen and (min-width: 60em) {
+
+  .l-1-3 {
+    width: 33.3333%;
   }
 
 }
